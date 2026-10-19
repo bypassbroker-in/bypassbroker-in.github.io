@@ -1,0 +1,14 @@
+{
+  "name": "BypassBroker — Zero Brokerage Property",
+  "short_name": "BypassBroker",
+  "description": "Rent, buy or sell property directly with owners in Ahmedabad, Gandhinagar and GIFT City. No broker, no commission.",
+  "start_url": "/",
+  "lang": "en-IN",
+  "icons": [
+    { "src": "assets/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/apple-touch-icon.png", "sizes": "180x180", "type": "image/png" }
+  ],
+  "theme_color": "#F4741E",
+  "background_color": "#FAF8F5",
+  "display": "browser"
+}
